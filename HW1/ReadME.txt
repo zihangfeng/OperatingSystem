@@ -1,0 +1,5 @@
+Zihang Feng
+665726671
+jfeng9
+
+       The file is as described in the requirement of the assigment up to part 4. First of all, get the uesr input and then appropriately parse them into different commands or tokens. Every time, the function of fork is called and separate the child from the parent, or what we call that is to clone the current process into another process. Thus, we could run two different process at the same time. Use make and follow by any name as the executable, or just g++ plus name of the file statsh.cpp to create the default executable a.out. Then, the program start running and ask for the user input. Type exit, the program would stop right away. give stats would print out what the user has typed, the user time, and the system time if any. Otherwise, give any argument like ls, clear to list them all or clear everything, respectively.
